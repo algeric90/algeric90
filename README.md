@@ -1,9 +1,12 @@
 ## Welcome to my GitHub
 
+
 Hi! I'm Alfa Rifa Luky Achmad Rayendra, but you can call me Alfa.
 I'm a fresh graduate passionate about Frontend Web Development. I earned my Frontend Developer certificate from  [Dicoding](https://www.dicoding.com/), and right now I’m diving into backend technologies to grow into a full-stack software engineer.
 
-Curious to know more? Let’s connect on [LinkedIn](https://www.linkedin.com/in/alfa-rifa-luky-achmad-rayendra-5a2077289/).
+I enjoy turning ideas into clean, functional web interfaces and love learning new tools that make development more efficient. I'm always excited to discuss, share ideas, and collaborate on projects related to web and software development.
+
+Feel free to check out my repositories, connect with me on [LinkedIn](https://www.linkedin.com/in/alfa-rifa-luky-achmad-rayendra-5a2077289/), or drop me an email at alfarifa.ar@gmail.com. I’ll get back to you as soon as I can!
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
