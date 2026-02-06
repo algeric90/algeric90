@@ -27,9 +27,9 @@ Feel free to check out my repositories, connect with me on [LinkedIn](https://ww
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/algeric90">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algeric90&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algeric90&layout=compact&layout=compact&theme=algolia"/>
+<a href="https://github.com/alfarifalar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfarifalar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfarifalar&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
